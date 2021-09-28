@@ -3,7 +3,7 @@ This breakout board is for the LITE-ON LTR-390UV-01 low voltage I2C ambient ligh
 
 Requires symbols and footprints from [DS Global Library](https://github.com/Destination-SPACE/DS-KiCad-Global-Source)
 
-![](https://github.com/Destination-SPACE/LTR390-Breakout/blob/main/ltr390Breakout_fixed.jpg)
+![](https://github.com/Destination-SPACE/LTR390-Breakout/blob/main/ltr390Breakout-rev2.jpg)
 
 # Licnese
 
